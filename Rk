@@ -4,4 +4,5 @@
 	
 	services:
     		wordpress:	
-		    	image:		
+		    	image:
+			container_name:		
