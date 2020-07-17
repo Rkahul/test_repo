@@ -1,0 +1,10 @@
+---
+
+	version: '3'
+	
+	services:
+    		wordpress:	
+		    	image:
+			container_name:	
+			port:
+			   - 8080:80	
