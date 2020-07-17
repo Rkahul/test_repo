@@ -4,7 +4,7 @@
 	
 	services:
     		wordpress:	
-		    	image:
-			container_name:	
+		    	image: ubuntu:16.04
+			container_name:	myubuntu_Container
 			port:
 			   - 8080:80	
